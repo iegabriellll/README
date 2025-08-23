@@ -24,5 +24,5 @@ Um olhar constante para a usabilidade
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,typescript,git,solidjs,bootstrap,svelte,jquery)](https://skillicons.dev)
 
 ## 📬 Contato
-
+Acesse o meu portfólio: https://lucasdev-pied.vercel.app
 Entre em contato comigo pelo e-mail: **glindi593@gmail.com**
