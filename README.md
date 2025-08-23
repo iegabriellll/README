@@ -25,4 +25,5 @@ Um olhar constante para a usabilidade
 
 ## 📬 Contato
 Acesse o meu portfólio: https://lucasdev-pied.vercel.app
+
 Entre em contato comigo pelo e-mail: **glindi593@gmail.com**
