@@ -1,4 +1,4 @@
-## 👋 Lucas Gabriell" Santos, 20 anos
+## 👋 Lucas Gabriell, 20 anos
 
 > Desenvolvedor Front-End focado em transformar ideias em interfaces interativas, modernas e acessíveis.  
 > Apaixonado por tecnologia, design e pela experiência do usuário. Escrevo código com propósito e criatividade.
